@@ -4,9 +4,9 @@ This repository is a part of an exercise to build an informative website on Brow
 ## Link to Web-Site:
 https://namitnaik.github.io/Codecademy-Brown-Bear/
 
-### Brown Bears:
+### index.html:
 
-![Brown Bears](https://github.com/NamitNaik/Codecademy-Brown-Bear/blob/main/Screenshot_2020-12-17%20Brown%20Bears.png)
-### About Me:
+![index.html](https://github.com/NamitNaik/Codecademy-Brown-Bear/blob/main/Screenshot_2020-12-17%20Brown%20Bears.png)
+### aboutme.html:
 
-![About Me](https://github.com/NamitNaik/Codecademy-Brown-Bear/blob/main/Screenshot_2020-12-17%20About%20Me.png)
+![aboutme.html](https://github.com/NamitNaik/Codecademy-Brown-Bear/blob/main/Screenshot_2020-12-17%20About%20Me.png)
